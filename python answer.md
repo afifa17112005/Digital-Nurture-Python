@@ -73,3 +73,6 @@
 
 ### Question 25 – Parameters
 <img src="https://github.com/user-attachments/assets/f8729ebc-e7ff-4640-9118-02cb24a5e772" width="500">
+
+### qn 26 - Multiple Parameters
+<img width="697" height="926" alt="{0E5E1B3D-F401-455E-9A27-297C04B4F1AD}" src="https://github.com/user-attachments/assets/b351482a-a152-4858-a52a-39106bc0f22f" />
