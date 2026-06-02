@@ -3,7 +3,7 @@
 ## DEPARTMENT : COMPUTER SCIENCE AND ENGINEERING
 ## qn1-Hello World
 <img width="792" height="950" alt="{1C2E2CC6-726D-4188-BD22-2A1943FF57D3}" src="https://github.com/user-attachments/assets/abb548df-cbe5-402c-9967-fb0b66beb479" />
-## qn4-Float Precision
+### qn4-Float Precision
 <img width="774" height="929" alt="{B457B85D-BC36-4520-9598-159095B201B1}" src="https://github.com/user-attachments/assets/fb80f778-ee46-431f-a135-0d26cf98e26e" />
 ## qn5-Multiple Assignment
 <img width="702" height="908" alt="{BB748DC9-7BD4-4CD8-9B8B-AF6B7D7A3CC3}" src="https://github.com/user-attachments/assets/570bf58a-4326-44b2-ab1f-c63b65e5dfc7" />
