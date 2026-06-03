@@ -76,3 +76,43 @@
 
 ### qn 26 - Multiple Parameters
 <img width="697" height="926" alt="{0E5E1B3D-F401-455E-9A27-297C04B4F1AD}" src="https://github.com/user-attachments/assets/b351482a-a152-4858-a52a-39106bc0f22f" />
+### qn 27 - len function 
+<img width="641" height="730" alt="image" src="https://github.com/user-attachments/assets/db50475a-f77c-4756-ab28-8423d96bfaab" />
+### qn28- write to file
+<img width="611" height="742" alt="image" src="https://github.com/user-attachments/assets/0ac03327-9072-4630-af0c-6468a167ba65" />
+### qn29-read from file
+<img width="726" height="751" alt="image" src="https://github.com/user-attachments/assets/db35e0da-4b42-4f12-8a75-7efbd26ad825" />
+### qn30 - basic try except
+<img width="662" height="843" alt="image" src="https://github.com/user-attachments/assets/748c2592-91af-44b1-9d30-d4f60de3bc2f" />
+### qn31 -  create list
+<img width="622" height="883" alt="image" src="https://github.com/user-attachments/assets/37f7d939-2166-4215-b8f2-1e278b356ed2" />
+### qn32 - append to list
+<img width="670" height="886" alt="image" src="https://github.com/user-attachments/assets/0e793369-a274-4830-a08f-d16a9acc1513" />
+### qn33 - update dictionary
+<img width="821" height="888" alt="image" src="https://github.com/user-attachments/assets/f92a1f40-656a-48f2-a140-3df9f67ab766" />
+### qn34 - nested dictionary 
+<img width="791" height="883" alt="image" src="https://github.com/user-attachments/assets/4641b491-794e-4cd7-aeac-9081c679ff80" />
+### qn35 - create tuple
+<img width="633" height="897" alt="image" src="https://github.com/user-attachments/assets/6e8a12ac-ba73-4cbf-bc08-631f60911aa1" />
+### qn36 - set intersection
+<img width="831" height="897" alt="image" src="https://github.com/user-attachments/assets/6cf0f980-3b3a-45a7-b6f7-2ac01ccf7ef9" />
+### qn37 - multiple instances
+<img width="668" height="921" alt="image" src="https://github.com/user-attachments/assets/3ccfbd93-4509-46e7-8989-91e6bc3bfd9d" />
+### qn 38 - method chaining
+<img width="742" height="912" alt="image" src="https://github.com/user-attachments/assets/93aa889c-2e37-4a76-8c5c-bdb9fc72408b" />
+### qn39 - polymorphism
+<img width="678" height="887" alt="image" src="https://github.com/user-attachments/assets/7cb4871f-a78a-4365-949c-520464a08b86" />
+### qn40 - class method
+<img width="592" height="893" alt="image" src="https://github.com/user-attachments/assets/591bc005-6aa4-4271-b30c-89a819571f0a" />
+### qn41 - employee management system
+<img width="662" height="932" alt="image" src="https://github.com/user-attachments/assets/f398b5ae-32cb-4ca7-a4ee-37057c8fbe4f" />
+### qn42 - data analysis pipeline
+<img width="640" height="917" alt="image" src="https://github.com/user-attachments/assets/9b3d6422-508f-4d81-94a3-e79e6bbd0110" />
+### qn43 - configuration manager
+<img width="741" height="930" alt="image" src="https://github.com/user-attachments/assets/35ea6919-39df-4f23-ba3b-6ee91783ce32" />
+### qn44 - csv dataprocessor
+<img width="857" height="887" alt="image" src="https://github.com/user-attachments/assets/7b89a5aa-6397-4b37-ba4c-58495a809f84" />
+### qn45 - expense tracker
+<img width="761" height="907" alt="image" src="https://github.com/user-attachments/assets/00df5b18-48c7-4216-a6c7-d27e8854ebcd" />
+### qn46 - API response handler
+
