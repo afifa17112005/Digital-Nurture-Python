@@ -115,4 +115,13 @@
 ### qn45 - expense tracker
 <img width="761" height="907" alt="image" src="https://github.com/user-attachments/assets/00df5b18-48c7-4216-a6c7-d27e8854ebcd" />
 ### qn46 - API response handler
+<img width="1108" height="930" alt="image" src="https://github.com/user-attachments/assets/9da0e917-aea1-41a4-bfec-ccb391049a3f" />
+### qn47 - Complete Calculator Program
+<img width="918" height="916" alt="image" src="https://github.com/user-attachments/assets/978fe639-bd80-494c-b530-1c9c4c6918eb" />
+### qn 48 - Shopping Cart System
+<img width="641" height="915" alt="image" src="https://github.com/user-attachments/assets/2995900a-8bab-451b-a7b1-f38f8116961e" />
+### qn49 - Temperature Converter
+<img width="832" height="946" alt="image" src="https://github.com/user-attachments/assets/12781dde-eb91-41b3-bafe-c060097332d9" />
+### qn50 - Backup Utility
+<img width="866" height="913" alt="image" src="https://github.com/user-attachments/assets/e584c6ee-9d15-4adf-9437-ba73d3cccbc9" />
 
